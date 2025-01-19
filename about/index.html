@@ -83,6 +83,17 @@
   
   <li class="hide-on-med-and-down nav-item">
     
+    <a href="/tags" class="waves-effect waves-light">
+      
+      <i class="fas fa-tags" style="zoom: 0.6;"></i>
+      
+      <span>标签</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
     <a href="/Mi8953" class="waves-effect waves-light">
       
       <i class="fas fa-archive" style="zoom: 0.6;"></i>
@@ -150,6 +161,17 @@
 			    <i class="fa-fw fas fa-home"></i>
 			
 			首页
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/tags" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-tags"></i>
+			
+			标签
 		</a>
           
         </li>
@@ -333,13 +355,18 @@
                     <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
                         
 <div class="statis">
-    <span class="count"><a href="/">2</a></span>
+    <span class="count"><a href="/">3</a></span>
     <span class="name">文章</span>
 </div>
 
 
 
 
+
+<div class="statis">
+    <span class="count"><a href="/tags">3</a></span>
+    <span class="name">标签</span>
+</div>
 
 
                     </div>
@@ -353,13 +380,18 @@
                                 <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
                                     
 <div class="statis">
-    <span class="count"><a href="/">2</a></span>
+    <span class="count"><a href="/">3</a></span>
     <span class="name">文章</span>
 </div>
 
 
 
 
+
+<div class="statis">
+    <span class="count"><a href="/tags">3</a></span>
+    <span class="name">标签</span>
+</div>
 
 
                                 </div>
@@ -485,7 +517,7 @@
                 name: '文章篇数',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [0,0,0,0,0,0,0,0,0,0,0,0,2],
+                data: [0,0,0,0,0,0,0,0,0,0,0,0,3],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -551,7 +583,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: []
+                data: ["Mi8953","红米5Plus(Vince)","HarmonyOS4.3"]
             }
         ],
         yAxis: [
@@ -564,7 +596,7 @@
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [],
+                data: [1,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -733,6 +765,24 @@
         <div class="sub-title center-align"><i class="fa fa-book"></i>&nbsp;&nbsp;其他技能</div>
         <div class="tag-chips center-align">
             
+            
+            <a href="/tags/Mi8953/">
+                <span class="chip center-align waves-effect waves-light chip-default">Mi8953</span>
+            </a>
+            
+            
+            
+            <a href="/tags/%E7%BA%A2%E7%B1%B35Plus-Vince/">
+                <span class="chip center-align waves-effect waves-light chip-default">红米5Plus(Vince)</span>
+            </a>
+            
+            
+            
+            <a href="/tags/HarmonyOS4-3/">
+                <span class="chip center-align waves-effect waves-light chip-default">HarmonyOS4.3</span>
+            </a>
+            
+            
         </div>
     </div>
     
@@ -833,7 +883,7 @@
                    type="playlist"
                    id="13124622652"
                    fixed='true'
-                   autoplay='true'
+                   autoplay='false'
                    theme='#42b983'
                    loop='all'
                    order='random'

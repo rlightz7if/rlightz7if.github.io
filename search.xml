@@ -5,8 +5,8 @@
     
     <entry>
       <title>HyperOS For Pad 1.0.3.0.TKZCNXM sGSI</title>
-      <link href="/2025/01/19/vince1/"/>
-      <url>/2025/01/19/vince1/</url>
+      <link href="/2025/01/19/GSI1/"/>
+      <url>/2025/01/19/GSI1/</url>
       
         <content type="html"><![CDATA[<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>system基于原包小米平板5Pro 1.0.3.0.TKZCNXM<br>红米Note4X和小米5的现成底包已经放网盘里了<br>需扩容system分区，UFS闪存用多系统工具箱扩容，emmc闪存用parted或扩容包扩容<br>内核版本4.4-4.9且非动态分区的机型可以开，实测A12-13底包可开机，更推荐A13底<br>开机之前需要刷入Patch3补丁</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug"></a>Bug</h2><p>人脸&#x2F;指纹&#x2F;互联互通白屏&#x2F;以及各种基于底包的Bug……</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/%5Cmedias%5CIMG_20250315_165527.jpg" alt="  "></p><p><img src="/%5Cmedias%5CIMG_20250215_202602.jpg" alt="  "></p><p><img src="/%5Cmedias%5CIMG_20250215_202610.jpg" alt="  "></p><p><img src="/%5Cmedias%5CIMG_20250215_202550.jpg" alt="  "></p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><p><a href="https://www.123pan.com/s/BDoVVv-t6NI3.html">https://www.123pan.com/s/BDoVVv-t6NI3.html</a> </p>]]></content>
       

@@ -4,11 +4,57 @@
   
     
     <entry>
-      <title>HyperOS For Pad 1.0.3.0.TKZCNXM sGSI</title>
-      <link href="/Rlightz7iF/mi8953-china/2025/01/19/GSI1/"/>
-      <url>/Rlightz7iF/mi8953-china/2025/01/19/GSI1/</url>
+      <title>小米平板4 HyperOS For Pad1.0.3.0.TKZCNXM Beta1</title>
+      <link href="/2025/04/03/mipad4hpos/"/>
+      <url>/2025/04/03/mipad4hpos/</url>
       
-        <content type="html"><![CDATA[<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>system基于原包小米平板5Pro 1.0.3.0.TKZCNXM<br>红米Note4X和小米5的现成底包已经放网盘里了<br>需扩容system分区，UFS闪存用多系统工具箱扩容，emmc闪存用parted或扩容包扩容<br>内核版本4.4-4.9且非动态分区的机型可以开，实测A12-13底包可开机，更推荐A13底<br>开机之前需要刷入Patch3补丁</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug"></a>Bug</h2><p>人脸&#x2F;指纹&#x2F;互联互通白屏&#x2F;以及各种基于底包的Bug……</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/Rlightz7iF/mi8953-china/%5Cmedias%5CIMG_20250315_165527.jpg" alt="  "></p><p><img src="/Rlightz7iF/mi8953-china/%5Cmedias%5CIMG_20250215_202602.jpg" alt="  "></p><p><img src="/Rlightz7iF/mi8953-china/%5Cmedias%5CIMG_20250215_202610.jpg" alt="  "></p><p><img src="/Rlightz7iF/mi8953-china/%5Cmedias%5CIMG_20250215_202550.jpg" alt="  "></p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><p><a href="https://www.123pan.com/s/BDoVVv-t6NI3.html">https://www.123pan.com/s/BDoVVv-t6NI3.html</a> </p>]]></content>
+        <content type="html"><![CDATA[<p>本次的移植原包为小米平板5Pro 1.0.3.0</p><p>注意！本版本为安卓13，且不需要扩容System分区！</p><h2 id="小米平板4刷入安卓12以上包之前一定要升级Keymaster！"><a href="#小米平板4刷入安卓12以上包之前一定要升级Keymaster！" class="headerlink" title="小米平板4刷入安卓12以上包之前一定要升级Keymaster！"></a>小米平板4刷入安卓12以上包之前一定要升级Keymaster！</h2><p>教程: <a href="https://rlightz7if.github.io/2025/04/03/keymaster">https://rlightz7if.github.io/2025/04/03/keymaster</a></p><h2 id="Bug-尝鲜包所以Bug很多，欢迎二改"><a href="#Bug-尝鲜包所以Bug很多，欢迎二改" class="headerlink" title="Bug(尝鲜包所以Bug很多，欢迎二改):"></a>Bug(尝鲜包所以Bug很多，欢迎二改):</h2><p>小米互联互通搜不到设备<br>蓝牙(搜不到设备)&#x2F;热点&#x2F;人脸&#x2F;电话&#x2F;亮度&#x2F;护眼<br>小米账号半残(扫码登录)</p><p>SELinux默认强制严格，但严格状态下部分应用闪退，可以刷入宽容补丁解决</p><h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h2><p>⚠️包中内置了KernelSU，开机后需要自己装本体<br>⚠️第一次刷入建议五清，避免出现问题<br>⚠️包中自带固件更新，不必再去卡刷最新MIUI10</p><p>⚠️请先解决keymaster问题后再刷入，否则卡二</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/media/Screenshot_2025-04-03-23-35-10-799_com.coolapk.ma.jpg"></p><hr><h2 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h2><p><a href="https://www.123865.com/s/BDoVVv-LfrI3">https://www.123865.com/s/BDoVVv-LfrI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/63784949?shareKey=OGQzNGJmY2U3MDE2NjdlZWFiNzE~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/63784949?shareKey=OGQzNGJmY2U3MDE2NjdlZWFiNzE~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> HyperOS For Pad A13 </tag>
+            
+            <tag> Android13 </tag>
+            
+            <tag> 小米平板4(Clover) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>keymaster</title>
+      <link href="/2025/04/03/keymaster/"/>
+      <url>/2025/04/03/keymaster/</url>
+      
+        <content type="html"><![CDATA[<p>解决Keymaster问题 图文教程</p><p><img src="/media/Screenshot_2025-04-03-22-36-21-496_com.miui.notes.jpg"></p><p>小米平板4总链接:<br><a href="https://www.123865.com/s/BDoVVv-LfrI3">https://www.123865.com/s/BDoVVv-LfrI3</a> </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 小米平板4(Clover) </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HyperOS For Pad 1.0.3.0.TKZCNXM sGSI</title>
+      <link href="/2025/03/15/GSI1/"/>
+      <url>/2025/03/15/GSI1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>system基于原包小米平板5Pro 1.0.3.0.TKZCNXM<br>红米Note4X和小米5的现成底包已经放网盘里了<br>需扩容system分区，UFS闪存用多系统工具箱扩容，emmc闪存用parted或扩容包扩容<br>内核版本4.4-4.9且非动态分区的机型可以开，实测A12-13底包可开机，更推荐A13底<br>开机之前需要刷入Patch3补丁</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug"></a>Bug</h2><p>人脸&#x2F;指纹&#x2F;互联互通白屏&#x2F;以及各种基于底包的Bug……</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/medias/IMG_20250315_165527.jpg" alt="  "></p><p><img src="/medias/IMG_20250215_202602.jpg" alt="  "></p><p><img src="/medias/IMG_20250215_202610.jpg" alt="  "></p><p><img src="/medias/IMG_20250215_202550.jpg" alt="  "></p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><p><a href="https://www.123pan.com/s/BDoVVv-t6NI3.html">https://www.123pan.com/s/BDoVVv-t6NI3.html</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/63377690?shareKey=MGIyMDJlZjNlYTk0NjdlZTgwNTA~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/63377690?shareKey=MGIyMDJlZjNlYTk0NjdlZTgwNTA~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p>]]></content>
       
       
       
@@ -16,11 +62,144 @@
             
             <tag> Mi8953 </tag>
             
-            <tag> Mi8996Re </tag>
+            <tag> sGSI </tag>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> HyperOS For Pad A13 </tag>
+            
+            <tag> Android13 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HyperOS ON Vince 1.0.10.0.TEGCNXM</title>
+      <link href="/2025/03/09/vincea13hpos/"/>
+      <url>/2025/03/09/vincea13hpos/</url>
+      
+        <content type="html"><![CDATA[<p>本次的移植原包为红米Note11EPro OS1.0.10.0</p><p>注意！本版本为安卓13，且不需要扩容System分区！</p><p>⚠️⚠️⚠️⚠️刷包前一定要看完本动态！⚠️⚠️⚠️⚠️</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h2><p>热点&#x2F;指纹（待测：流量，电话功能，VoLTE）</p><h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h2><p>⚠️包中内置了KernelSU，开机后需要自己装本体<br>⚠️第一次刷入建议五清，其他包不知道可不可以保数据升级，为避免Bug建议双清<br>⚠️建议刷入前先线刷MIUI11作为底包</p><p>⚠️dpi开机会有点大，自行去修改，建议420</p><p>⚠️刷入之后可以下载网盘里的补全系统软件来补全软件</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/medias/1743684440749.jpg" alt="  "></p><hr><p>感谢 酷安@某滑稽苟 @酷狗zhj @閃電Flashh 技术指导&#x2F;支持</p><h2 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h2><p><a href="https://www.123865.com/s/BDoVVv-HBCI3">https://www.123865.com/s/BDoVVv-HBCI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/63238807?shareKey=Yjk0N2JhMWM1YjJjNjdlZTgxOTU~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/63238807?shareKey=Yjk0N2JhMWM1YjJjNjdlZTgxOTU~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> Android13 </tag>
+            
+            <tag> 红米5Plus(Vince) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HyperOS1.0.10.0.TCFCNXM For Mido发布</title>
+      <link href="/2025/03/02/midohyperosa13/"/>
+      <url>/2025/03/02/midohyperosa13/</url>
+      
+        <content type="html"><![CDATA[<p>本次的移植原包为红米Note11EPro OS1.0.10.0</p><p>注意！本版本为安卓13，且不需要扩容System分区！</p><p>⚠️⚠️⚠️⚠️刷包前一定要看完本动态！⚠️⚠️⚠️⚠️</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h2><p>传感器+自动亮度，热点，人脸指纹，澎湃护眼模式（鬼知道为什么这次会炸那么多）<br>（热点可以试试删&#x2F;product&#x2F;overlay&#x2F;WifiResCommon.apk）</p><p>（待测：流量，电话功能，VoLTE，热点）</p><h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h2><p>⚠️包中内置了KernelSU，开机后需要自己装本体<br>⚠️第一次刷入建议五清，LZY1.0.2.0不知道可不可以保数据升级，为避免Bug建议双清<br>⚠️建议刷入前先线刷MIUI11作为底包</p><p>⚠️刷入之后可以下载网盘里的补全系统软件来补全软件</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/medias/Screenshot_20250403_210144.jpg" alt="  "></p><hr><p>感谢@LazyBones_LZY @酷狗zhj @閃電Flashh 技术指导&#x2F;支持</p><h2 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h2><p> <a href="https://www.123684.com/s/BDoVVv-1sNI3">https://www.123684.com/s/BDoVVv-1sNI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/63084502?shareKey=ZDhiNzE3YjY5MzlmNjdlZTg1ZTY~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/63084502?shareKey=ZDhiNzE3YjY5MzlmNjdlZTg1ZTY~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p><hr>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> Android13 </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HyperOS ON Vince 2.0.3.0UEGCNXM</title>
+      <link href="/2025/02/10/hyper2-0UVince/"/>
+      <url>/2025/02/10/hyper2-0UVince/</url>
+      
+        <content type="html"><![CDATA[<p>没想到H.O.V.这么快就复活了，这一次也是为大家带来了最新力作🤓👍🏻<br>注意！安卓版本还是安卓14！本次的移植原包为</p><p>小米12Pro1.0.12.0+K60E2.0.3.0</p><p>⚠️⚠️⚠️⚠️刷包前一定要看完本动态！⚠️⚠️⚠️⚠️</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h2><p>传感器+自动亮度，指纹，澎湃护眼模式，开机引导</p><p>（待测：流量，电话功能，VoLTE，热点）</p><h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h2><p>⭐如果开不了热点，把&#x2F;product&#x2F;overlay里面WiFi开头的两个overlay删掉试试<br>⚠️包中内置了KernelSU，开机后需要自己装本体<br>⚠️第一次开机有概率会卡一，如果正常只会呆十分钟，不正常请按住电源键重启<br>⚠️刷入扩容包后若爆红字请看此动态 <a href="https://www.coolapk.com/feed/54610671?shareKey=MjU5NWU0NGM5ZTk1Njc4Y2RhZmU~&shareUid=29021846&shareFrom=com.coolapk.market_14.1.0">https://www.coolapk.com/feed/54610671?shareKey=MjU5NWU0NGM5ZTk1Njc4Y2RhZmU~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_14.1.0</a><br>⚠️第一次刷入建议五清，其他澎湃ROM不知道可不可以保数据升级，为避免Bug建议双清<br>⚠️一定要刷入跳过开机引导！当然如果你已经开机了再重启回去刷跳过开机引导也来得及</p><p>⚠️建议刷入前先线刷MIUI11作为底包</p><p>本次分为两个版本，Lite版和Full版，Full版刷入前请先刷入6GB扩容包，Lite版开机后需要先安装核心破解后补全软件，两版本都需要刷入跳过开机引导</p><h2 id="预览："><a href="#预览：" class="headerlink" title="预览："></a>预览：</h2><p>内置了超级小爱，Lite版需要开机后安装<br>Lite版为OS1.0满血动画桌面，Full版为OS2.0桌面<br>（开机后可自己安装核心破解替换自己想要的，网盘里都有）<br>Lite版默认OS1.0白羊设置，有状态栏歌词，Full版默认OS2.0设置，Bug可能有点多，可以安装核心破解替换</p><p>澎湃自带的护眼可能不生效，这里给了一个原生护眼的入口，高级材质可用，且生效</p><p><img src="/medias/Screenshot_2025-04-03-23-22-42-527_com.coolapk.ma.jpg" alt="  "></p><p><img src="/medias/Screenshot_2025-04-03-23-23-29-001_com.coolapk.ma.jpg" alt="  "></p><p>感谢款@LazyBones_LZY @酷狗zhj @某滑稽苟 @琼斯Jones @白羊唐黎明 技术指导&#x2F;支持</p><h2 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h2><p> <a href="https://www.123684.com/s/BDoVVv-HBCI3">https://www.123684.com/s/BDoVVv-HBCI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/62631542?shareKey=MGQ5ZWFmN2RlZDJiNjdlZWE3MzA~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/62631542?shareKey=MGQ5ZWFmN2RlZDJiNjdlZWE3MzA~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> Android14 </tag>
+            
+            <tag> 红米5Plus(Vince) </tag>
+            
+            <tag> HyperOS2.0A14 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HyperOS2.0 A14 sGSI</title>
+      <link href="/2025/02/10/hyper2-0usgsi/"/>
+      <url>/2025/02/10/hyper2-0usgsi/</url>
+      
+        <content type="html"><![CDATA[<p>HyperOS-14 sGSI今日发布<br>system基于我的HyperOS2.0.3.0UCFCNXM，原包为12Pro 1.0.12.0.ULBCNXM<br>虽然三件套+五件套已全面GSI化，但相比上次A13灵车概率还是比较大的时😅如果有开不起来的可以试试换本机类原生的三件套（init+两libfs.so）<br>本体只有3GB，理论上大部分机型免扩容，内核版本4.4-4.9且非动态分区的机型可以开<br>实测A13-14底包可开机，更推荐A13底<br>开机之前需要刷入Patch3和跳过开机引导</p><p><img src="/medias/d5fb634aba014b4f58a94452242327fe.jpeg" alt="  "></p><h2 id="可能会有的Bug"><a href="#可能会有的Bug" class="headerlink" title="可能会有的Bug:"></a>可能会有的Bug:</h2><p>传感器+自动亮度，指纹，澎湃护眼模式，开机引导（待测：流量，电话功能，VoLTE，热点）</p><h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h2><p>⭐如果开不了热点，把&#x2F;product&#x2F;overlay里面WiFi开头的两个overlay删掉试试<br>⚠️第一次开机有概率会卡一，如果正常只会呆十分钟，不正常请按住电源键重启</p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接:"></a>下载链接:</h2><p><a href="https://www.123pan.com/s/BDoVVv-t6NI3.html">https://www.123pan.com/s/BDoVVv-t6NI3.html</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/62631542?shareKey=YTIwNzcyNWJlMWU2NjdlZTg5YTY~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/62631542?shareKey=YTIwNzcyNWJlMWU2NjdlZTg5YTY~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
             
             <tag> sGSI </tag>
             
             <tag> HyperOS </tag>
+            
+            <tag> Android14 </tag>
+            
+            <tag> HyperOS2.0A14 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HyperOS2.0.3.0UCFCNXM For Mido</title>
+      <link href="/2025/02/06/hyper2-0UMido/"/>
+      <url>/2025/02/06/hyper2-0UMido/</url>
+      
+        <content type="html"><![CDATA[<p>注意！安卓版本还是安卓14！本次的移植原包为</p><p>小米12Pro1.0.12.0+K60E2.0.3.0</p><p>⚠️⚠️⚠️⚠️刷包前一定要看完本动态！⚠️⚠️⚠️⚠️</p><h2 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h2><p>传感器+自动亮度，指纹，澎湃护眼模式</p><p>（待测：流量，电话功能，VoLTE，热点）</p><h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h2><p>⚠️包中内置了KernelSUNext，开机后需要自己装本体<br>⚠️第一次开机有概率会卡一，如果正常只会呆十分钟，不正常请按住电源键重启<br>⚠️刷入扩容包后若爆红字请看此动态 <a href="https://www.coolapk.com/feed/54610671?shareKey=MjU5NWU0NGM5ZTk1Njc4Y2RhZmU~&shareUid=29021846&shareFrom=com.coolapk.market_14.1.0">https://www.coolapk.com/feed/54610671?shareKey=MjU5NWU0NGM5ZTk1Njc4Y2RhZmU~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_14.1.0</a><br>⚠️第一次刷入建议五清，LZY1.0.7.0不知道可不可以保数据升级，为避免Bug建议双清<br>⚠️一定要刷入跳过开机引导！当然如果你已经开机了再重启回去刷跳过开机引导也来得及</p><p>⚠️建议刷入前先线刷MIUI11作为底包</p><p>本次分为两个版本，Lite版和Full版，Full版刷入前请先刷入6GB扩容包，Lite版开机后需要先安装核心破解后补全软件，两版本都需要刷入跳过开机引导</p><h2 id="预览："><a href="#预览：" class="headerlink" title="预览："></a>预览：</h2><p>内置了超级小爱，Lite版需要开机后安装<br>Lite版为OS1.0满血动画桌面，Full版为OS2.0桌面<br>（开机后可自己安装核心破解替换自己想要的，网盘里都有）</p><p>Lite版默认OS1.0白羊设置，有状态栏歌词，Full版默认OS2.0设置，Bug可能有点多<br>同上，可以安装核心破解替换<br>澎湃自带的护眼可能不生效，这里给了一个原生护眼的入口</p><p><img src="/medias/IMG_20250403_230623.jpg" alt="  "></p><p>感谢@LazyBones_LZY @酷狗zhj @星軒の小窓 @琼斯Jones @白羊唐黎明 技术指导&#x2F;支持</p><h2 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h2><p> <a href="https://www.123684.com/s/BDoVVv-1sNI3">https://www.123684.com/s/BDoVVv-1sNI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/62555027?shareKey=OTRiYzYwM2NjYjMzNjdlZThmN2I~&shareUid=29021846&shareFrom=com.coolapk.market_13.3.4">https://www.coolapk.com/feed/62555027?shareKey=OTRiYzYwM2NjYjMzNjdlZThmN2I~&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_13.3.4</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> Android14 </tag>
+            
+            <tag> HyperOS2.0A14 </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
             
         </tags>
       
@@ -30,10 +209,10 @@
     
     <entry>
       <title>挂两个人机</title>
-      <link href="/Rlightz7iF/mi8953-china/2025/01/12/%E6%8C%82%E4%B8%A4%E4%B8%AA%E4%BA%BA%E6%9C%BA/"/>
-      <url>/Rlightz7iF/mi8953-china/2025/01/12/%E6%8C%82%E4%B8%A4%E4%B8%AA%E4%BA%BA%E6%9C%BA/</url>
+      <link href="/2025/01/12/%E6%8C%82%E4%B8%A4%E4%B8%AA%E4%BA%BA%E6%9C%BA/"/>
+      <url>/2025/01/12/%E6%8C%82%E4%B8%A4%E4%B8%AA%E4%BA%BA%E6%9C%BA/</url>
       
-        <content type="html"><![CDATA[<h1 id="开盒顺手的事，被我开了直接挂"><a href="#开盒顺手的事，被我开了直接挂" class="headerlink" title="开盒顺手的事，被我开了直接挂"></a>开盒顺手的事，被我开了直接挂</h1><p>这个入天天喊别人小比崽子，以为自己是黑手，直接被我装B飞起来了，已开盒，望老实</p><p><img src="/Rlightz7iF/mi8953-china/medias/1.jpg" alt=" "></p><p>天天找我单挑单挑，打一下直接被零封了，入机已开</p><p><img src="/Rlightz7iF/mi8953-china/medias/2.jpg" alt=" "></p><p>(纯娱乐)</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="开盒顺手的事，被我开了直接挂"><a href="#开盒顺手的事，被我开了直接挂" class="headerlink" title="开盒顺手的事，被我开了直接挂"></a>开盒顺手的事，被我开了直接挂</h1><p>这个入天天喊别人小比崽子，以为自己是黑手，直接被我装B飞起来了，已开盒，望老实</p><p><img src="/medias/1.jpg" alt=" "></p><p>天天找我单挑单挑，打一下直接被零封了，入机已开</p><p><img src="/medias/2.jpg" alt=" "></p><p>(纯娱乐)</p>]]></content>
       
       
       
@@ -43,8 +222,8 @@
     
     <entry>
       <title></title>
-      <link href="/Rlightz7iF/mi8953-china/2025/01/11/Welcome%20to%20my%20blog!/"/>
-      <url>/Rlightz7iF/mi8953-china/2025/01/11/Welcome%20to%20my%20blog!/</url>
+      <link href="/2025/01/11/Welcome%20to%20my%20blog!/"/>
+      <url>/2025/01/11/Welcome%20to%20my%20blog!/</url>
       
         <content type="html"><![CDATA[<h1 id="Welcome-to-my-blog"><a href="#Welcome-to-my-blog" class="headerlink" title="Welcome to my blog!"></a>Welcome to my blog!</h1><blockquote><p>试运营中！目前这个网页还不算太完善，寒假之后再慢慢搞搞！</p></blockquote><h2 id="关注主播喵！"><a href="#关注主播喵！" class="headerlink" title="关注主播喵！"></a>关注主播喵！</h2><p>Coolapk:<a href="http://www.coolapk.com/u/29021846">http://www.coolapk.com/u/29021846</a></p><p>BiliBili:<a href="https://space.bilibili.com/388480244">https://space.bilibili.com/388480244</a></p><p>全网@云宝黛西丶Rainbow</p>]]></content>
       

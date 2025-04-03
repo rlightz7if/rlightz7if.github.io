@@ -62,9 +62,9 @@
             
             <tag> Mi8953 </tag>
             
-            <tag> sGSI </tag>
-            
             <tag> HyperOS </tag>
+            
+            <tag> sGSI </tag>
             
             <tag> HyperOS For Pad A13 </tag>
             
@@ -114,11 +114,11 @@
             
             <tag> Mi8953 </tag>
             
+            <tag> 红米Note4X(Mido) </tag>
+            
             <tag> HyperOS </tag>
             
             <tag> Android13 </tag>
-            
-            <tag> 红米Note4X(Mido) </tag>
             
         </tags>
       
@@ -139,13 +139,13 @@
             
             <tag> Mi8953 </tag>
             
-            <tag> HyperOS </tag>
-            
             <tag> Android14 </tag>
             
-            <tag> 红米5Plus(Vince) </tag>
+            <tag> HyperOS </tag>
             
             <tag> HyperOS2.0A14 </tag>
+            
+            <tag> 红米5Plus(Vince) </tag>
             
         </tags>
       
@@ -166,13 +166,13 @@
             
             <tag> Mi8953 </tag>
             
-            <tag> sGSI </tag>
+            <tag> Android14 </tag>
             
             <tag> HyperOS </tag>
             
-            <tag> Android14 </tag>
-            
             <tag> HyperOS2.0A14 </tag>
+            
+            <tag> sGSI </tag>
             
         </tags>
       
@@ -193,13 +193,13 @@
             
             <tag> Mi8953 </tag>
             
-            <tag> HyperOS </tag>
-            
             <tag> Android14 </tag>
             
-            <tag> HyperOS2.0A14 </tag>
-            
             <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> HyperOS </tag>
+            
+            <tag> HyperOS2.0A14 </tag>
             
         </tags>
       

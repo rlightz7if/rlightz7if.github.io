@@ -52,6 +52,139 @@
     
     
     <entry>
+      <title>FlymeAIOS 11.0.6.0A Beta1 For Mido（需扩容）</title>
+      <link href="/2025/12/14/fm11mido/"/>
+      <url>/2025/12/14/fm11mido/</url>
+      
+        <content type="html"><![CDATA[<p>答应大家这周末发的Flyme11，来了！<br>基于Lucky08原包制作（爱来自@不灵敏的电流表 ），相较于上次的Flyme10Bug不算满天飞，动画十分的流畅，甚至修复了奇怪的震动+息屏如息+相机的问题<br>这只是一个试玩包，如果你们觉得这个AIOS很好用，想让我做第二版，那我就尽我所能多修点Bug</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h1><p>指纹&#x2F;人脸&#x2F;控制中心的手电筒&#x2F;亮度可能会蹦迪&#x2F;各种陀螺仪之类传感器的失灵，等等……</p><h1 id="⚠️注意⚠️："><a href="#⚠️注意⚠️：" class="headerlink" title="⚠️注意⚠️："></a>⚠️注意⚠️：</h1><p>*如果遇到开机卡一等情况，请刷入橙狐Recovery试试<br>*Flyme10不能直升本版本，第一次刷入需要五清（system,vendor,data,cache,davlik cache）<br>*需要扩容6GB才能刷入！包内置了底包和新版Splash，如果你有刷不开机的问题，还可以试试线刷MIUI11<br>*本包内核自带KitsuneMask27.0，开机直接修补环境即可使用<br>*SELinux默认强制宽容，想要严格的话可以装我网盘里的强制严格模块</p><h1 id="下载链接！"><a href="#下载链接！" class="headerlink" title="下载链接！"></a>下载链接！</h1><p><a href="https://www.123684.com/s/BDoVVv-JnRI3">https://www.123684.com/s/BDoVVv-JnRI3</a> </p><p><img src="/medias/F7E770E6360AF2F935BB8B504C3B70CF.jpg"></p><p><img src="/medias/F9C4A9149304F870E6A537A65B7BE6AA.jpeg"></p><p><img src="/medias/6223173AB1959A94A2ABFA4C699EC7ED.jpg"></p><p><img src="/medias/885D7FDFB95EA6937ED59974608FF074.jpg"></p><p><img src="/medias/95BC891E44D8DA2F4A7761AD88261881.jpg"></p><p><img src="/medias/7A2071F66CE03B7639E781EE46ABEAF8.jpg"></p><p>酷安原文：<a href="https://www.coolapk.com/feed/61438902?s=Yjk1Mjg1NDgxYmFkNjk2ZzY4NzA3YjE0ega1540">https://www.coolapk.com/feed/61438902?s=Yjk1Mjg1NDgxYmFkNjk2ZzY4NzA3YjE0ega1540</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> Android14 </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> Flyme </tag>
+            
+            <tag> Flyme11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HarmonyOS4.3 Beta1 For Sagit</title>
+      <link href="/2025/07/11/hmsagit/"/>
+      <url>/2025/07/11/hmsagit/</url>
+      
+        <content type="html"><![CDATA[<p>扔一个鸿蒙HarmonyOS4.3的试玩包在这里！</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug"></a>Bug</h1><p>（谁来了都修不好）</p><p>指纹&#x2F;人脸&#x2F;热点&#x2F;ohos半好&#x2F;亮度&#x2F;各种传感器&#x2F;SELinux宽容等……</p><h1 id="注意"><a href="#注意" class="headerlink" title="注意:"></a>注意:</h1><p>刷入之前必须扩容System分区大小！我已经压缩到极限了，但至少还要扩容到7GB，可以用多系统工具箱扩容<br>如果刷完开不了机，刷网盘里的Firmware-Update<br>如果刷入报错，刷网盘里的最新TWRP<br>开机记得自己调dpi，建议400，开发者选项里可以调，ADB也可以输入adb shell wm density 400</p><p>桌面布局记得改成紧凑，不然看着很怪</p><h1 id="链接："><a href="#链接：" class="headerlink" title="链接："></a>链接：</h1><p> <a href="https://www.123684.com/s/BDoVVv-rBDI3">https://www.123684.com/s/BDoVVv-rBDI3</a> </p><p><img src="/medias/1867810aaceefa706f2de4388c99e0f2.jpeg"></p><p><img src="/medias/965443b935c5f48ecacced257704cac3.jpeg"></p><p><img src="/medias/03d09c19f54ce01c47a864a04aad287f.jpeg"></p><p><img src="/medias/7d96b2e844897fe4306995cf2be255f2.jpeg"></p><p><img src="/medias/dce8e3a4a4d162ef3db61851bd7227e3.jpeg"></p><p><img src="/medias/be3da0c7a9b5d36ae37ceb18191d7069.jpeg"></p><p><img src="/medias/5a581a17cc4264578658244e1589ec54.jpeg"></p><p><img src="/medias/0c27f55b5470d6353dfa71853c38bd1f.jpeg"></p><p><img src="/medias/864193ec07d2bfcbecd232eaf8afb3d2.jpeg"></p><p>酷安原文：<a href="https://www.coolapk.com/feed/61888177?s=Mzk1MmRiZjkxYmFkNjk2ZzY4NzA3NWEwega1423">https://www.coolapk.com/feed/61888177?s=Mzk1MmRiZjkxYmFkNjk2ZzY4NzA3NWEwega1423</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 小米6(Sagit) </tag>
+            
+            <tag> Android12 </tag>
+            
+            <tag> HarmonyOS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MIUI12 A11 V12.1.5.0 For 红米Note4X(Mido)</title>
+      <link href="/2025/07/11/miui12mido/"/>
+      <url>/2025/07/11/miui12mido/</url>
+      
+        <content type="html"><![CDATA[<p>原包来自小米CC9 Pro V12.1.5.0</p><p>我甚至连三件套都没换，直接把system刷进去就开机了？😱</p><h1 id="做包不易，如果您愿意，在爱发电赞助我！"><a href="#做包不易，如果您愿意，在爱发电赞助我！" class="headerlink" title="做包不易，如果您愿意，在爱发电赞助我！"></a>做包不易，如果您愿意，在爱发电赞助我！</h1><p><a href="https://afdian.com/a/Rlightz7iF?tab=home">https://afdian.com/a/Rlightz7iF?tab=home</a> </p><p>⚠️⚠️⚠️⚠️刷包前一定要看完本动态！⚠️⚠️⚠️⚠️</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h1><p>指纹(麻蛋怎么连安卓11也炸指纹)</p><p>SELinux宽容(开机装强制严格模块即可)</p><h1 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h1><p>⚠️包中内置了KernelSU，开机自己装软件</p><p>⚠️第一次刷入建议五清</p><h1 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h1><p><img src="/medias/1752199349423.jpg"></p><hr><h1 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h1><p> <a href="https://www.123684.com/s/BDoVVv-1sNI3">https://www.123684.com/s/BDoVVv-1sNI3</a></p><p>酷安原文： <a href="https://www.coolapk.com/feed/66004407">https://www.coolapk.com/feed/66004407</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> MIUI </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> MIUI12 </tag>
+            
+            <tag> Android11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MIUI11 A10 V11.1.2.0 For 红米Note4X(Mido)</title>
+      <link href="/2025/07/11/miuimido/"/>
+      <url>/2025/07/11/miuimido/</url>
+      
+        <content type="html"><![CDATA[<p>原包来自小米CC9 Pro V11.1.2.0 稳定版</p><p>技术支持再次感谢ErfanGSI🤓</p><h1 id="做包不易，如果您愿意，在爱发电赞助我！"><a href="#做包不易，如果您愿意，在爱发电赞助我！" class="headerlink" title="做包不易，如果您愿意，在爱发电赞助我！"></a>做包不易，如果您愿意，在爱发电赞助我！</h1><p><a href="https://afdian.com/a/Rlightz7iF?tab=home">https://afdian.com/a/Rlightz7iF?tab=home</a> </p><p>⚠️⚠️⚠️⚠️刷包前一定要看完本动态！⚠️⚠️⚠️⚠️</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h1><p>指纹&#x2F;亮度太低&#x2F;小米账号</p><p>SELinux宽容(开机装强制严格模块即可)</p><h1 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h1><p>⚠️包中内置了KitsuneMask，开机自己装软件</p><p>⚠️第一次刷入建议五清</p><h1 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h1><p><img src="/medias/Screenshot_2025-07-11-09-51-03-202_com.coolapk.ma.jpg"></p><hr><h1 id="下载链接："><a href="#下载链接：" class="headerlink" title="下载链接："></a>下载链接：</h1><p><a href="https://www.123684.com/s/BDoVVv-1sNI3">https://www.123684.com/s/BDoVVv-1sNI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/66004352?s=ZGE3ZmI4NDExYmFkNjk2ZzY4NzA2ZDkxega1540">https://www.coolapk.com/feed/66004352?s=ZGE3ZmI4NDExYmFkNjk2ZzY4NzA2ZDkxega1540</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> MIUI </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> Android10 </tag>
+            
+            <tag> MIUI11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>4.9Kernel Update For Mido MIUI10/11 A10</title>
+      <link href="/2025/07/11/4-9kernel/"/>
+      <url>/2025/07/11/4-9kernel/</url>
+      
+        <content type="html"><![CDATA[<p>给MIUI10&#x2F;11准备的4.9内核更新，放网盘里了<br>来自zeelog的Los17.1，内置KitsuneMask27.0<br>理论其他A10类原生和MIUI都能用<br>MIUI10原贴： <a href="https://www.coolapk.com/feed/65939653?s=M2JhOTkzYmQxYmFkNjk2ZzY4NmZlNTc5ega1410&shareUid=29021846&shareFrom=com.coolapk.market_14.1.0">https://www.coolapk.com/feed/65939653?s=M2JhOTkzYmQxYmFkNjk2ZzY4NmZlNTc5ega1410&amp;shareUid=29021846&amp;shareFrom=com.coolapk.market_14.1.0</a> </p><p><img src="/medias/872bd22b86831561603fc4988e653b55(1).jpeg"></p><p>酷安原文：<a href="https://www.coolapk.com/feed/66004270?s=NjYwYmQyYWUxYmFkNjk2ZzY4NzA2YjFhega1540">https://www.coolapk.com/feed/66004270?s=NjYwYmQyYWUxYmFkNjk2ZzY4NzA2YjFhega1540</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> MIUI </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> MIUI10 </tag>
+            
+            <tag> Android10 </tag>
+            
+            <tag> Kernel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MIUI10 V10.4.6.0 For 小米6（Sagit）</title>
       <link href="/2025/07/10/sagit10-4-6/"/>
       <url>/2025/07/10/sagit10-4-6/</url>
@@ -236,6 +369,8 @@
             <tag> 小米平板4(Clover) </tag>
             
             <tag> Flyme10Pad </tag>
+            
+            <tag> Flyme </tag>
             
         </tags>
       
@@ -742,6 +877,8 @@
             
             <tag> Flyme10Pad </tag>
             
+            <tag> Flyme </tag>
+            
         </tags>
       
     </entry>
@@ -764,6 +901,8 @@
             <tag> 小米平板4(Clover) </tag>
             
             <tag> Flyme10Pad </tag>
+            
+            <tag> Flyme </tag>
             
         </tags>
       
@@ -1032,6 +1171,29 @@
     
     
     <entry>
+      <title>BPF Patched Kernel For Mido</title>
+      <link href="/2025/01/24/kernelBPF/"/>
+      <url>/2025/01/24/kernelBPF/</url>
+      
+        <content type="html"><![CDATA[<p>折腾了好久Mido的内核，最终放弃了<br>故开放给大家玩，合了BPF，但Wifi炸<br>开不了澎湃OS1开发者预览版<br>（注意，只是处理过的内核(boot.img)，内核对应的原包已放在网盘）<br>链接： <a href="https://www.123684.com/s/BDoVVv-FODI3">https://www.123684.com/s/BDoVVv-FODI3</a><br>感谢@tiffanyy 技术支持<br>源码：<br>Los20&#x2F;22: <a href="https://github.com/zeelog/android_kernel_xiaomi_mido">https://github.com/zeelog/android_kernel_xiaomi_mido</a><br>PixelOS: <a href="https://github.com/Alone0316/kernel_mido">https://github.com/Alone0316/kernel_mido</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/62433006?s=MDMwNjEzOWMxYmFkNjk2ZzY4NzA3MGVlega1540">https://www.coolapk.com/feed/62433006?s=MDMwNjEzOWMxYmFkNjk2ZzY4NzA3MGVlega1540</a></p><p><img src="/medias/5916c0d8f3f39ba9866ca86482c249ec.jpeg"></p><p>![](&#x2F;medias&#x2F;676543072d23dc3395fa1ee27b1fe994 - 副本.jpeg)</p><p><img src="/medias/9378b9518b3abbb0212b386a3f3ce8a7.jpeg"></p><p>![](&#x2F;medias&#x2F;f252b699b8ecb1ea83b7a1aac0edb849 - 副本.jpeg)</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> Kernel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>挂两个人机</title>
       <link href="/2025/01/12/%E6%8C%82%E4%B8%A4%E4%B8%AA%E4%BA%BA%E6%9C%BA/"/>
       <url>/2025/01/12/%E6%8C%82%E4%B8%A4%E4%B8%AA%E4%BA%BA%E6%9C%BA/</url>
@@ -1039,6 +1201,85 @@
         <content type="html"><![CDATA[<h1 id="开盒顺手的事，被我开了直接挂"><a href="#开盒顺手的事，被我开了直接挂" class="headerlink" title="开盒顺手的事，被我开了直接挂"></a>开盒顺手的事，被我开了直接挂</h1><p>这个入天天喊别人小比崽子，以为自己是黑手，直接被我装B飞起来了，已开盒，望老实</p><p><img src="/medias/1.jpg" alt=" "></p><p>天天找我单挑单挑，打一下直接被零封了，入机已开</p><p><img src="/medias/2.jpg" alt=" "></p><p>(纯娱乐)</p>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HarmonyOS4.3 Beta1 For Mido/Vince</title>
+      <link href="/2025/01/04/hmvcmd/"/>
+      <url>/2025/01/04/hmvcmd/</url>
+      
+        <content type="html"><![CDATA[<p>扔一个鸿蒙HarmonyOS4.3的试玩包在这里！</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h1><p>（谁来了都修不好）<br>指纹&#x2F;人脸&#x2F;热点&#x2F;ohos半好&#x2F;亮度&#x2F;各种传感器&#x2F;SELinux宽容等……</p><p>(Mido特有)无基带</p><h1 id="注意"><a href="#注意" class="headerlink" title="注意:"></a>注意:</h1><p>⭐刷入之前必须扩容System分区大小！我已经压缩到极限了，但至少还要扩容到8GB，网盘有扩容包<br>⭐如果刷入报错，刷网盘里的最新TWRP<br>⭐开机记得自己调dpi，建议400，开发者选项里可以调，ADB也可以输入adb shell wm density 400</p><p>⭐桌面布局记得改成紧凑，不然看着很怪</p><h1 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h1><p>红米5Plus(Vince):<br><a href="https://www.123684.com/s/BDoVVv-lXRI3">https://www.123684.com/s/BDoVVv-lXRI3</a><br>红米Note4X(Mido):<br><a href="https://www.123684.com/s/BDoVVv-JnRI3">https://www.123684.com/s/BDoVVv-JnRI3</a> </p><p><img src="/medias/b6477ca67d5589dd59b95debf7b677b9.jpeg"></p><p><img src="/medias/9256f1e07915116db3fd58c74559ed88.jpeg"></p><p><img src="/medias/84294c50b1e5e69bb45dfc790533fcf9.jpeg"></p><p><img src="/medias/788b50c6268b86787cb181a13729b24d.jpeg"></p><p><img src="/medias/d75938fae7daf9e0e883757eb2bcefcd.jpeg"></p><p><img src="/medias/52d14874cafdb30a1e55b15607d4d386.jpeg"></p><p><img src="/medias/ac6b8fbfcf060ac2bdd91e3b7e0df4e9.jpeg"></p><p><img src="/medias/533f566ff8095f876b77398b2cb38f9c.jpeg"></p><p>酷安原文：<a href="https://www.coolapk.com/feed/61895512?s=OWIzMjI0NWMxYmFkNjk2ZzY4NzA3NGVkega1540">https://www.coolapk.com/feed/61895512?s=OWIzMjI0NWMxYmFkNjk2ZzY4NzA3NGVkega1540</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> 红米5Plus(Vince) </tag>
+            
+            <tag> 红米Note4X(Mido) </tag>
+            
+            <tag> Android12 </tag>
+            
+            <tag> HarmonyOS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>FlymeAIOS 11.0.6.0A Beta1 For Sagit</title>
+      <link href="/2024/12/21/fm11sagit/"/>
+      <url>/2024/12/21/fm11sagit/</url>
+      
+        <content type="html"><![CDATA[<p>基于Lucky08原包制作（技术指导感谢@不灵敏的电流表 ），因技术力有限，没有修Flyme的Bug的经验，所以姑且先发个试玩包，如果你们觉得这个AIOS很好用，想让我做第二版，那我就尽我所能多修点Bug！</p><h1 id="⚠️注意⚠️："><a href="#⚠️注意⚠️：" class="headerlink" title="⚠️注意⚠️："></a>⚠️注意⚠️：</h1><p>*System需要扩容6GB才能刷入！请自行用多系统工具箱扩容System分区<br>*刷入之前请先把Data分区格式化为F2FS！否则可能会卡一<br>*SELinux默认强制宽容，想要严格的话可以装我网盘里的强制严格模块<br>*第一次刷入可能需要五清（system,vendor,data,cache,davlik cache）<br>*本包内核自带KitsuneMask27.0，开机直接修补环境即可使用</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h1><p>SELinux默认宽容（导致了换桌面壁纸会闪退）&#x2F;指纹&#x2F;人脸&#x2F;亮度可能会蹦迪&#x2F;各种陀螺仪之类传感器的失灵，等等……</p><p><img src="/medias/6C97B8DC3ECCD14D4E28E2A7BF42FE00.png"></p><p><img src="/medias/F2F7E72CEC6C75AF20B9DDE95508E60D.png"></p><p><img src="/medias/A0C49CAC29FBFCB989F36B9709EC20FB.png"></p><p><img src="/medias/4FADBB898FA87567644A7C41C5DD776B.png"></p><p><img src="/medias/CDFD81EC5CAEC6D800907C829ACE77D2.jpeg"></p><p><img src="/medias/5BC7BF984B99767A53018D846B8641C1.png"></p><h1 id="下载链接！"><a href="#下载链接！" class="headerlink" title="下载链接！"></a>下载链接！</h1><p><a href="https://www.123684.com/s/BDoVVv-C1DI3">https://www.123684.com/s/BDoVVv-C1DI3</a> </p><p>酷安原文：<a href="https://www.coolapk.com/feed/61592732?s=ZDQyYjk0NzIxYmFkNjk2ZzY4NzA3ODM4ega1540">https://www.coolapk.com/feed/61592732?s=ZDQyYjk0NzIxYmFkNjk2ZzY4NzA3ODM4ega1540</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Android14 </tag>
+            
+            <tag> 小米6(Sagit) </tag>
+            
+            <tag> Flyme </tag>
+            
+            <tag> Flyme11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>FlymeAIOS 11.0.6.0A Beta1 For Vince（需扩容）</title>
+      <link href="/2024/12/14/fm11vin/"/>
+      <url>/2024/12/14/fm11vin/</url>
+      
+        <content type="html"><![CDATA[<p>答应大家这周末发的Flyme11，它来了！<br>基于Lucky08原包制作（爱来自@不灵敏的电流表 ），相较于上次的Flyme10Bug不算满天飞，动画十分的流畅<br>这只是一个试玩包，如果你们觉得这个AIOS很好用，想让我做第二版，那我就尽我所能多修点Bug</p><h1 id="Bug"><a href="#Bug" class="headerlink" title="Bug:"></a>Bug:</h1><p>指纹&#x2F;人脸&#x2F;控制中心的手电筒&#x2F;亮度可能会蹦迪&#x2F;一些应用的闪退&#x2F;各种陀螺仪之类传感器的失灵（在已经强制SELinux的情况下，连魅族主题都闪退，这也导致了换壁纸很麻烦）等等……</p><h1 id="⚠️注意⚠️："><a href="#⚠️注意⚠️：" class="headerlink" title="⚠️注意⚠️："></a>⚠️注意⚠️：</h1><p>*Flyme10不能直升本版本，第一次刷入需要五清（system,vendor,data,cache,davlik cache）<br>*需要扩容6GB才能刷入！包内置了底包和新版Splash，如果你有刷不开机的问题，还可以试试线刷MIUI11<br>*本包内核自带KernelSU，开机直接装网盘里的KSU管理器即可<br>*SELinux默认强制宽容，想要严格的话可以装我网盘里的强制严格模块</p><h1 id="下载链接！"><a href="#下载链接！" class="headerlink" title="下载链接！"></a>下载链接！</h1><p><a href="https://www.123684.com/s/BDoVVv-lXRI3">https://www.123684.com/s/BDoVVv-lXRI3</a> </p><p><img src="/medias/09EE6886A3978F91E013C6D5BB860D85.jpg"></p><p><img src="/medias/8BFEB41238DA6FBCDE4ED972B8026191.gif"></p><p><img src="/medias/71BEB6CDC27EDF660BD4027BC9B657FF.jpg"></p><p><img src="/medias/EE06CA614AD769E870B35D033CDB53B2.jpg"></p><p><img src="/medias/167ADADC41ABB16492F990FFBDEFD9DA.jpg"></p><p><img src="/medias/CCA72B59AEB8F674824EA1A0B3B564B0.jpg"></p><p><img src="/medias/D3ED4DED06A3CA52F69C6565B45607E2.jpg"></p><p><img src="/medias/A749EA88193213F91BF774FF63969F0E.jpeg"></p><p>酷安原文：<a href="https://www.coolapk.com/feed/61428167?s=Nzk3ZGYyYTUxYmFkNjk2ZzY4NzA3YzRjega1540">https://www.coolapk.com/feed/61428167?s=Nzk3ZGYyYTUxYmFkNjk2ZzY4NzA3YzRjega1540</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mi8953 </tag>
+            
+            <tag> Android14 </tag>
+            
+            <tag> 红米5Plus(Vince) </tag>
+            
+            <tag> Flyme </tag>
+            
+            <tag> Flyme11 </tag>
+            
+        </tags>
       
     </entry>
     
